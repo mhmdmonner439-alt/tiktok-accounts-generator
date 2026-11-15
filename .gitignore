@@ -1,0 +1,4 @@
+.next/
+.pnpm-store/
+.DS_Store
+dist/
